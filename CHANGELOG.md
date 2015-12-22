@@ -1,3 +1,20 @@
+v3.1.3 - Tue, 08 Dec 2015 19:20:18 GMT
+--------------------------------------
+
+- [c9bed37](../../commit/c9bed37) [fixed] moment localizer parse error
+- [edba4c1](../../commit/edba4c1) [fixed] changing dropUp during a transition will cancel and restart the correct animation
+
+
+
+v3.1.2 - Tue, 08 Dec 2015 19:12:58 GMT
+--------------------------------------
+
+- [3f7a001](../../commit/3f7a001) [fixed] changing dropUp during a transition will cancel and restart the correct animation
+- [53bff60](../../commit/53bff60) [fixed] multiselect calls preventDefault
+- [6e83098](../../commit/6e83098) [fixed] A couple IE8 issues
+
+
+
 v3.1.1 - Fri, 04 Dec 2015 18:48:40 GMT
 --------------------------------------
 
